@@ -1,5 +1,5 @@
 # CGU
-Simplimmat CGU
+CGU Simplimmat 
 
 1.1	Conditions générales d’utilisation de Simplimmat.gouv
 1.1.1	Objet
